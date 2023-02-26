@@ -1,0 +1,16 @@
+body {
+    background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.3), 
+      rgba(0, 0, 0, 0.3)
+    ),
+    url(https://img.freepik.com/free-vector/diverse-people-virtual-online-video-conference_107791-4948.jpg?w=1480&t=st=1677419772~exp=1677420372~hmac=4fa61f16a0a62567242df7196ad8ca36daa58a79b348bfecb1142d3bedd1f2d0);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
